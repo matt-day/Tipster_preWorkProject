@@ -1,6 +1,6 @@
 # Pre-work - *Name of App Here*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tipster** is a tip calculator application for iOS.
 
 Submitted by: **Matt Day**
 
